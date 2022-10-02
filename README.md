@@ -1,5 +1,22 @@
-# Quiz App
+<h1 align="center"> Quiz App </h1> 
+
 QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
+
+## ✨ Demo
+
+- Just setup your quizz (number of questions, subject, level)
+
+<p align="center">
+<img src="https://media4.giphy.com/media/Bl7SH16Tp02pY9FIQw/giphy.gif">
+</p>
+
+- Click on the right answer
+- At the end you will obtain your score 
+
+<p align="center">
+<img src="https://media0.giphy.com/media/21aOTOK5T1zK2G2FdN/giphy.gif?cid=790b76116c586fa2a05ffb74b947241824b0cda504679303&rid=giphy.gif&ct=g">
+</p>
+
 
 ## Getting Started
 
